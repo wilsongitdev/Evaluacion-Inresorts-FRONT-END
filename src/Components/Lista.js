@@ -32,7 +32,7 @@ class Lista extends Component {
     }
 
     obtenerUsuariosPorCategoria = (itemCategoria) => {
-        const rutaServicio =  ApiWebUrl + "suscription/all/state/11";
+        const rutaServicio =  ApiWebUrl + "suscription/all/state/15";
         this.setState({
             ilogo: true
         })

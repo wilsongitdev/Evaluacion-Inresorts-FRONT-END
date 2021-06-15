@@ -4,7 +4,7 @@ function MainHeader(props) {
     return (
         <header id="main-header">
             <div className="container">
-            <h1>In resorts</h1>
+            <h1>Inresorts</h1>
             </div>
         </header>
     );

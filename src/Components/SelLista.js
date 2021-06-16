@@ -46,6 +46,7 @@ class SelLista extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
+                        <h3>Seleccionar estado(click)</h3>
                         <ul className="list-group">
                             {dibujarlistaelegir}
                         </ul>

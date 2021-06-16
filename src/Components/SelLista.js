@@ -45,13 +45,13 @@ class SelLista extends Component {
         <section id='lista'>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-4">
+                    <div className="col-md-2">
                         <h3>Seleccionar estado(click)</h3>
                         <ul className="list-group">
                             {dibujarlistaelegir}
                         </ul>
                     </div>
-                    <div className="col-md-8">
+                    <div className="col-md-10">
                             {dibujarlistausuario}
                     </div>
                 </div>
